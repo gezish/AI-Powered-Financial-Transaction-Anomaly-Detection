@@ -1,0 +1,15 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+xgboost==2.1.1
+imbalanced-learn==0.12.3
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.8.2
+confluent-kafka==2.4.0
+shap==0.46.0
+joblib==1.4.2
+prometheus-client==0.20.0
+loguru==0.7.2
+evidently==0.5.0
+python-dotenv==1.0.1

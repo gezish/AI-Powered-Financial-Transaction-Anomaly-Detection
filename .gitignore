@@ -5,7 +5,16 @@ __pycache__/
 
 # C extensions
 *.so
+.env
+.venv
+env/
+venv/
+ENV/
 
+env.bak/
+venv.bak/
+ai_power
+create_structure.sh
 # Distribution / packaging
 .Python
 build/
